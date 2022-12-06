@@ -11,7 +11,7 @@ namespace AdventOfCode3
     {
         static void Main(string[] args)
         {
-            const string path = @"G:\My Drive\c# exercises\rucksack.txt";
+            const string path = @"";
             StreamReader reader;
 
             string alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
